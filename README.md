@@ -21,5 +21,5 @@ gen-file random.txt 20kb
 Generates a random.txt file of size 20kb in your current directory. ```gen-file``` is an alias in bash_profile in this example
 
 # Limitations
-* Currently on supports files sizes in kb and mb
+* Currently only supports files sizes in kb and mb
 
